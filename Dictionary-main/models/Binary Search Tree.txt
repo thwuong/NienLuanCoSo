@@ -1,8 +1,0 @@
-available;sẵn sàng;/əˈveiləbl/;An important part of planning slurry utilization and management system is estimating the amount of nutrients available for land application
-agree;đồng tình,đồng ý;/əˈɡriː/;However,      all researchers agree that both elements are required if we are to understand the potential role and limitations of a specific psychological therapy
-appropriate;phù hợp;/əˈprəupriət/;You’ll have to complete the appropriate form
-alternative;có thể lựa chọn;/oːlˈtəːnətiv/;An alternative arrangement can be made if my plans don’t suit you
-demand;yêu cầu,đòi hỏi;/diˈmaːnd/;The children make a lot of demands on my time
-expect;mong chờ;/ikˈspekt/;I’m expecting a letter today,      We expect her on tomorrow’s train
-discover;/disˈkavə/;Khám phá;null, Columbus discovered America
-promise;hứa;/ˈpromis/;I promise (that) I won’t be late,        I promise not to be late,        I won’t be late,        I promise (you)!
